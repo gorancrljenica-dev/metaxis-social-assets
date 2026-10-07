@@ -1,0 +1,25 @@
+{
+  "pack": "2026-10-09_cognitive-verifier-pattern",
+  "brand": "metaxis",
+  "language": "bs",
+  "title": "Cognitive Verifier Pattern",
+  "source_url": "https://metaxis.io/blog/cognitive-verifier-pattern-ai-pita-prije-odgovora",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-09_cognitive-verifier-pattern/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-statement.png",
+    "slides/06-rules.png",
+    "slides/07-pair.png",
+    "slides/08-close.png"
+  ],
+  "captions": {
+    "linkedin": "AI često odmah isporuči odgovor koji zvuči samouvjereno i logično. Ali nije nužno tačan, potpun ili dobro promišljen.\n\nCognitive Verifier Pattern (CVP) to mijenja. AI ne daje odmah konačan odgovor, već prvo razlaže tvoje pitanje na podpitanja, prikuplja odgovore, pa tek onda sastavlja zaključak. Umjesto da pogađa rješenje, gradi ga od razjašnjenih dijelova.\n\nKada ga koristiti: za odluke i analize gdje pogrešna pretpostavka košta. Kada ne: za brze informacije i jednoznačna pitanja.\n\nCVP nije samoprovjera. Model ne kontroliše svoj odgovor, nego razlaže tvoje pitanje, i to prije odgovora.\n\nCijeli tekst: https://metaxis.io/blog/cognitive-verifier-pattern-ai-pita-prije-odgovora\n\n#AI #PromptEngineering #CognitiveVerifier",
+    "instagram": "AI često odmah isporuči odgovor koji zvuči samouvjereno. Ali nije nužno tačan.\n\nCognitive Verifier Pattern (CVP): AI prvo razlaže tvoje pitanje na podpitanja, prikuplja odgovore, pa tek onda sastavlja zaključak.\n\nKoristi ga za odluke i analize gdje pogrešna pretpostavka košta.\n\nCijela lekcija na blogu: metaxis.io/blog\n\n#AI #PromptEngineering #CognitiveVerifier",
+    "facebook": "AI često odmah isporuči odgovor koji zvuči samouvjereno. Ali nije nužno tačan.\n\nCognitive Verifier Pattern (CVP): AI prvo razlaže tvoje pitanje na podpitanja, prikuplja odgovore, pa tek onda sastavlja zaključak.\n\nKoristi ga za odluke i analize gdje pogrešna pretpostavka košta.\n\nCijela lekcija: https://metaxis.io/blog/cognitive-verifier-pattern-ai-pita-prije-odgovora"
+  }
+}

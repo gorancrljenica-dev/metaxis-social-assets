@@ -1,0 +1,24 @@
+{
+  "pack": "2026-10-07_test-github-render",
+  "brand": "metaxis",
+  "language": "en",
+  "title": "TEST — GitHub render",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-07_test-github-render/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-think.png",
+    "slides/04-act.png",
+    "slides/05-verify.png",
+    "slides/06-rules.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "TEST draft — GitHub render. Do not publish.",
+    "instagram": "TEST draft — GitHub render. Do not publish.",
+    "facebook": "TEST draft — GitHub render. Do not publish."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pack": "2026-10-08_coding-agent-umjesto-klasicnog-mcp-pristupa",
+  "brand": "metaxis",
+  "language": "bs",
+  "title": "Coding agent umjesto klasičnog MCP pristupa",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-08_coding-agent-umjesto-klasicnog-mcp-pristupa/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-statement.png",
+    "slides/05-pair.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "Umjesto klasičnog MCP pristupa predlažem coding agenta koji samostalno prepoznaje koji su mu alati potrebni za izvršenje zadatka. Agent može dinamički otkrivati, povezivati i koristiti alate, ali ne može sam sebi proširivati ovlaštenja.\n\nHarness ostaje kontrolni sloj: određuje kojim resursima agent smije pristupiti, koje operacije može izvršiti i kada je potrebno ljudsko odobrenje. Svaka izvršena akcija ostaje provjerljiva i evidentirana.\n\nCilj nije potpuno ukloniti MCP, nego smanjiti zavisnost od statički definisanih integracija i omogućiti kontrolisanu autonomiju. MCP ima smisla za stabilne i ponavljajuće integracije, a coding agent za fleksibilne i promjenjive radne procese.\n\nViše na metaxis.io\n\n#AI #CodingAgent #MCP",
+    "instagram": "Umjesto klasičnog MCP pristupa predlažem coding agenta koji samostalno prepoznaje koji su mu alati potrebni.\n\nMCP ima smisla za stabilne i ponavljajuće integracije, a coding agent za fleksibilne i promjenjive radne procese.\n\nHarness u oba slučaja kontroliše ovlaštenja, izvršavanje i provjeru rezultata.\n\nViše: metaxis.io\n\n#AI #CodingAgent #MCP",
+    "facebook": "Umjesto klasičnog MCP pristupa predlažem coding agenta koji samostalno prepoznaje koji su mu alati potrebni za izvršenje zadatka.\n\nCilj nije potpuno ukloniti MCP, nego omogućiti kontrolisanu autonomiju. Harness u oba slučaja kontroliše ovlaštenja, izvršavanje i provjeru rezultata.\n\nViše na metaxis.io"
+  }
+}

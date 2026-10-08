@@ -1,0 +1,23 @@
+{
+  "pack": "2026-10-08_harness-umjesto-mcp-a",
+  "brand": "metaxis",
+  "language": "bs",
+  "title": "Harness umjesto MCP-a",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-08_harness-umjesto-mcp-a/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-statement.png",
+    "slides/04-pair.png",
+    "slides/05-statement.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "Coding agent uz upravljanje harnessom može zamijeniti MCP.\n\nŠta to znači? Harness vodi agenta kroz rad, svojim postavljenim načinom rada, dozvolama i zabranama.\n\nUz dodatni harness, coding agent bi mogao samostalno ostvarivati pozive prema alatima i na taj način raditi posao bolje od MCP-a koji su stalno tu i upaljeni.\n\nKada MCP i dalje ima smisla? Kada se radi bez agenta, a potrebna je povezanost aplikacija za rad.\n\nVišе na metaxis.io\n\n#AI #CodingAgent #MCP",
+    "instagram": "Coding agent uz upravljanje harnessom može zamijeniti MCP.\n\nHarness vodi agenta kroz rad: načinom rada, dozvolama i zabranama.\n\nMCP ima smisla kada se radi bez agenta, a potrebna je povezanost aplikacija.\n\nVišе na metaxis.io\n\n#AI #CodingAgent #MCP",
+    "facebook": "Coding agent uz upravljanje harnessom može zamijeniti MCP.\n\nHarness vodi agenta kroz rad, svojim načinom rada, dozvolama i zabranama. MCP ima smisla kada se radi bez agenta, a potrebna je povezanost aplikacija.\n\nVišе na metaxis.io"
+  }
+}

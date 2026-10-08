@@ -1,0 +1,24 @@
+{
+  "pack": "2026-10-08_agent-over-mcp",
+  "brand": "metaxis",
+  "language": "en",
+  "title": "Agent Over MCP",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-08_agent-over-mcp/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-pair.png",
+    "slides/04-statement.png",
+    "slides/05-rules.png",
+    "slides/06-statement.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "A coding agent managed by a harness can replace MCP, and the reason is straightforward: token cost.\n\nWith MCP always connected, tokens are spent whether the tool is needed or not. A harness changes that. It defines which tools the agent may use, when, and how. The agent calls a tool only when it decides it needs one, via a terminal command, and a human approves before anything runs.\n\nA real example: Claude Code working with GitHub through commands, with no MCP in the loop.\n\nThere is a line where MCP still makes sense. Knowing that line is the practical skill.\n\nMore on agent architecture at metaxis.io\n\n#AI #CodingAgent #AgentArchitecture",
+    "instagram": "MCP is always on. That costs tokens.\n\nA coding agent managed by a harness only calls a tool when it needs one. The harness sets the rules, the human approves each call, and MCP stays out of the loop.\n\nReal example: Claude Code working with GitHub through commands, no MCP.\n\nThere is still a line where MCP makes sense. Knowing it matters.\n\nMore at metaxis.io\n\n#AI #CodingAgent #AgentArchitecture",
+    "facebook": "MCP is always connected. That means tokens are spent whether the tool is needed or not.\n\nA coding agent managed by a harness only calls a tool when it decides it needs one, with Human approval. Claude Code working with GitHub through commands is one real example of this in practice.\n\nThere is still a line where MCP makes sense. Knowing it is the practical skill.\n\nMore at metaxis.io\n\n#AI #CodingAgent #AgentArchitecture"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pack": "2026-10-12_the-hardest-part-of-automation",
+  "brand": "metaxis",
+  "language": "en",
+  "title": "The hardest part of automation",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-12_the-hardest-part-of-automation/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-statement.png",
+    "slides/04-rules.png",
+    "slides/05-close.png"
+  ],
+  "captions": {
+    "linkedin": "I built an AI-powered email router in n8n that reads every new email in my Gmail inbox and automatically sorts it into five categories: work, learning, important (security alerts, payment confirmations), other, and \"needs review.\"\n\nIt runs on its own every hour and scored 8/8 on real emails after testing.\n\nThe biggest lessons weren't about AI. They were about me. I had to clean the input, because it was also sorting my own sent emails. I had to clearly define what \"important\" means to me. And I had to fix the wiring when a new category shifted the outputs.\n\nThe takeaway: the hardest part of automation isn't the technology, it's defining the rules.\n\nWhat repetitive task in your work would you automate first?\n\nmetaxis.io\n\n#n8n #Automation #AI",
+    "instagram": "I built an AI-powered email router in n8n. It reads every new email in my Gmail inbox and sorts it into five categories.\n\nThe biggest lessons weren't about AI. They were about me.\n\nThe hardest part of automation isn't the technology, it's defining the rules.\n\nWhat repetitive task in your work would you automate first?\n\nmetaxis.io\n\n#n8n #Automation #AI",
+    "facebook": "I built an AI-powered email router in n8n that sorts every new email in my Gmail inbox into five categories. It runs on its own every hour and scored 8/8 on real emails after testing.\n\nThe takeaway: the hardest part of automation isn't the technology, it's defining the rules.\n\nWhat repetitive task in your work would you automate first?\n\nmetaxis.io"
+  }
+}

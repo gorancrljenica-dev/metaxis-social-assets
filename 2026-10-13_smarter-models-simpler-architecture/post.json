@@ -20,5 +20,7 @@
     "linkedin": "The model is getting smarter, and the architecture doesn't have to get bigger.\n\nMy view is that many practical AI applications can be built around simpler architectures: well-structured folders, clearly defined prompts, relevant context, and access to the right tools.\n\nMore capable models give us an opportunity to spend less effort micromanaging execution and more effort improving context quality, tool interfaces, and result verification.\n\nThis does not mean frameworks are becoming obsolete. Their complexity should be justified by measurable improvements in reliability, performance, or maintainability.\n\nThe real engineering challenge is determining what the model should decide independently and what the surrounding system must strictly control.\n\nhttps://developers.openai.com/api/docs/guides/agents\n\n#AI #AIAgents #Architecture",
     "instagram": "The model is getting smarter, and the architecture doesn't have to get bigger.\n\nMore effort on context quality, tool interfaces, and result verification. Less effort micromanaging execution.\n\nThe real engineering challenge: what the model should decide independently, and what the surrounding system must strictly control.\n\nLink: developers.openai.com/api/docs/guides/agents\n\n#AI #AIAgents #Architecture",
     "facebook": "The model is getting smarter, and the architecture doesn't have to get bigger.\n\nMany practical AI applications can be built around simpler architectures: well-structured folders, clearly defined prompts, relevant context, and access to the right tools.\n\nhttps://developers.openai.com/api/docs/guides/agents"
-  }
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
 }

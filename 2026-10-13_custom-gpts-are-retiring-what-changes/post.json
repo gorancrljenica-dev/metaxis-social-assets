@@ -1,0 +1,24 @@
+{
+  "pack": "2026-10-13_custom-gpts-are-retiring-what-changes",
+  "brand": "metaxis",
+  "language": "en",
+  "title": "Custom GPTs are retiring: what changes",
+  "source_url": "https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-13_custom-gpts-are-retiring-what-changes/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-pair.png",
+    "slides/04-statement.png",
+    "slides/05-rules.png",
+    "slides/06-statement.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "OpenAI has officially announced the retirement of Custom GPTs, scheduled for December 11, 2026, and their transition toward Plugins.\n\nThis does not mean GPT models or AI agents are disappearing. It is a change in how customized assistants are structured within ChatGPT. What was organized through GPT Instructions and Knowledge is moving toward a more modular system built around skills, reference files and connected applications. Existing Custom Actions may require additional configuration or new integrations, including MCP where appropriate.\n\nThe interesting part is the clearer separation between instructions, knowledge and tools. These components become more reusable and independently manageable.\n\nFrom an AI engineering perspective: are we entering a phase where context architecture matters just as much as the underlying model?\n\nMy own content system already works this way.\n\nOpenAI FAQ: https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq\n\n#AI #ContextArchitecture #MCP",
+    "instagram": "OpenAI has announced the retirement of Custom GPTs on December 11, 2026, and their transition toward Plugins.\n\nGPT models and AI agents are not disappearing. The structure of customized assistants is changing: instructions, knowledge and tools become more reusable and independently manageable.\n\nAre we entering a phase where context architecture matters just as much as the underlying model?\n\nOpenAI FAQ: help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq\n\n#AI #ContextArchitecture #MCP",
+    "facebook": "OpenAI has announced the retirement of Custom GPTs on December 11, 2026, and their transition toward Plugins.\n\nGPT models and AI agents are not disappearing. What changes is how customized assistants are structured: instructions, knowledge and tools become more reusable and independently manageable.\n\nAre we entering a phase where context architecture matters just as much as the underlying model?\n\nhttps://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq"
+  }
+}

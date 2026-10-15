@@ -1,0 +1,26 @@
+{
+  "pack": "2026-10-15_a-useful-agent-is-simple-its-limits-are-not-option",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "A useful agent is simple. Its limits are not optional.",
+  "source_url": "https://developers.openai.com/api/docs/guides/agents-api/architecture",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-15_a-useful-agent-is-simple-its-limits-are-not-option/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-statement.png",
+    "slides/05-pair.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "A useful AI agent doesn't need a complex architecture. No multi-agent setup. No heavy framework.\n\nFiles give it context, instructions and skills. A simple loop does the rest: choose an action, call a tool, check the result, decide the next step.\n\nMy coding agent works this way. It has a project folder with rules and briefs. It uses git and a render script. It stops and asks for my approval.\n\nBut files don't execute themselves. Using a tool is not permission to use it. Access control, verification and stopping rules stay part of the architecture.\n\nGive the model what it needs. Set its limits. Verify what it delivers.\n\nSource: https://developers.openai.com/api/docs/guides/agents-api/architecture\n\n#AI #AIAgents #Architecture",
+    "instagram": "A useful AI agent doesn't need a complex architecture. No multi-agent setup. No heavy framework.\n\nFiles give it context, instructions and skills. A simple loop does the rest.\n\nBut using a tool is not permission to use it.\n\nGive the model what it needs. Set its limits. Verify what it delivers.\n\nLink: developers.openai.com/api/docs/guides/agents-api/architecture\n\n#AI #AIAgents #Architecture",
+    "facebook": "A useful AI agent doesn't need a complex architecture. No multi-agent setup. No heavy framework.\n\nFiles give it context, instructions and skills. A simple loop does the rest. But using a tool is not permission to use it.\n\nGive the model what it needs. Set its limits. Verify what it delivers.\n\nhttps://developers.openai.com/api/docs/guides/agents-api/architecture"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

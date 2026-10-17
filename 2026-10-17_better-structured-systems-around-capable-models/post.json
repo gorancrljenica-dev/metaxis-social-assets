@@ -1,0 +1,27 @@
+{
+  "pack": "2026-10-17_better-structured-systems-around-capable-models",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Better-structured systems around capable models",
+  "source_url": "https://prodready.si/",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-17_better-structured-systems-around-capable-models/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-rules.png",
+    "slides/06-statement.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "ProdReady by Innovate shows how structured instructions, specialized tools, a controlled execution process and MCP connectivity can turn an existing coding agent into part of a much more disciplined development workflow.\n\nI tested it on my own project, the Formulation Decision System (FDS), an AI-powered decision-support application for dietary supplement formulation that keeps critical decisions under human control.\n\nIn a few days, three assessment rounds raised the due diligence score for FDS from 2.9 to 3.4 out of 5, and 27 development stories became five sprints implemented in code. I stopped once my experiment's goals were met; the formal review steps were not completed, so this is not production certification.\n\nThe lesson: AI-assisted development doesn't need more complicated agents. It needs better-structured systems around increasingly capable models.\n\nMore: https://prodready.si/\n\n#AI #SoftwareDevelopment #MCP",
+    "instagram": "AI-assisted development doesn't need more complicated agents. It needs better-structured systems around increasingly capable models.\n\nI tested ProdReady by Innovate on my own project, FDS. In a few days, the due diligence score went from 2.9 to 3.4 out of 5, and 27 development stories became five sprints implemented in code.\n\nThis is not production certification.\n\nMore: prodready.si\n\n#AI #SoftwareDevelopment #MCP",
+    "facebook": "AI-assisted development doesn't need more complicated agents. It needs better-structured systems around increasingly capable models.\n\nI tested ProdReady by Innovate on my own project, FDS. In a few days, the due diligence score went from 2.9 to 3.4 out of 5, and 27 development stories became five sprints implemented in code. This is not production certification.\n\nMore: https://prodready.si/"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

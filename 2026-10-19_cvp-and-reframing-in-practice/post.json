@@ -1,0 +1,26 @@
+{
+  "pack": "2026-10-19_cvp-and-reframing-in-practice",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "CVP and Reframing in Practice",
+  "source_url": "https://metaxis.io/blog/cvp-and-reframing-in-practice",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-19_cvp-and-reframing-in-practice/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-rules.png",
+    "slides/05-pair.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "Most people get generic advice from AI because they ask vague questions and let the AI fill the gaps with assumptions.\n\nCombining two techniques changes that: Reframing and the Cognitive Verifier Pattern (CVP).\n\nFirst, reframing: ask the AI to rewrite your question with context, a clear goal and a narrower focus.\n\nThen CVP: before answering, the AI lists the sub-questions it needs answered instead of guessing. Once you answer them, it builds a plan from your actual situation.\n\nReframing sharpens the question. CVP stops the AI from jumping to conclusions. Together they turn AI from a search engine into a thinking tool.\n\nFor quick facts and simple, clear questions, a direct answer is enough.\n\nRead more: https://metaxis.io/blog/cvp-and-reframing-in-practice\n\n#AI #PromptEngineering #CognitiveVerifier",
+    "instagram": "Most people get generic advice from AI because they ask vague questions and let the AI fill the gaps with assumptions.\n\nReframing sharpens the question. CVP stops the AI from jumping to conclusions. Together they turn AI from a search engine into a thinking tool.\n\nFor quick facts and simple, clear questions, a direct answer is enough.\n\nRead more: metaxis.io/blog/cvp-and-reframing-in-practice\n\n#AI #PromptEngineering #CognitiveVerifier",
+    "facebook": "Most people get generic advice from AI because they ask vague questions and let the AI fill the gaps with assumptions.\n\nReframing sharpens the question. CVP stops the AI from jumping to conclusions. Together they turn AI from a search engine into a thinking tool.\n\nRead more: https://metaxis.io/blog/cvp-and-reframing-in-practice"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

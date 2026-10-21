@@ -1,0 +1,25 @@
+{
+  "pack": "2026-10-21_reframing-questions-for-better-ai-answers",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Reframing Questions for Better AI Answers",
+  "source_url": "https://metaxis.io/blog/reframing-questions-for-better-ai-answers",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-21_reframing-questions-for-better-ai-answers/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-rules.png",
+    "slides/03-statement.png",
+    "slides/04-pair.png",
+    "slides/05-close.png"
+  ],
+  "captions": {
+    "linkedin": "The fastest way to get a better answer from an AI is to fix the question before you send it.\n\nReframing means rewriting your question so it carries clearer context, drops hidden assumptions, and points at the type of answer you actually need.\n\nAI models answer the question they receive, including bad ones. If a question is vague, too broad, or built on a wrong assumption, the model will answer it perfectly and send you in the wrong direction.\n\nReframing cannot fix a question when your own goal is still unclear. In that case, clarify your goal first.\n\nRead more: https://metaxis.io/blog/reframing-questions-for-better-ai-answers\n\n#AI #PromptEngineering",
+    "instagram": "The fastest way to get a better answer from an AI is to fix the question before you send it.\n\nAI models answer the question they receive, including bad ones. A vague question gets a perfect answer in the wrong direction.\n\nReframing cannot fix an unclear goal. In that case, clarify your goal first.\n\nRead more: metaxis.io/blog/reframing-questions-for-better-ai-answers\n\n#AI #PromptEngineering",
+    "facebook": "The fastest way to get a better answer from an AI is to fix the question before you send it.\n\nAI models answer the question they receive, including bad ones. If a question is vague, too broad, or built on a wrong assumption, the model will answer it perfectly and send you in the wrong direction.\n\nRead more: https://metaxis.io/blog/reframing-questions-for-better-ai-answers"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

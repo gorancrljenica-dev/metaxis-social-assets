@@ -1,0 +1,25 @@
+{
+  "pack": "2026-10-27_capability-is-not-authority",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Capability is not authority",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-27_capability-is-not-authority/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-pair.png",
+    "slides/04-statement.png",
+    "slides/05-close.png"
+  ],
+  "captions": {
+    "linkedin": "Being intelligent doesn't mean having permission.\n\nAn AI agent can write code. It can modify databases. It can send emails. It can deploy applications. But capable is not the same as allowed. Capable. Not authorized.\n\nThis is a core rule in the Metaxis Harness. I separated intelligence from authority. The AI reasons and proposes. It executes within defined boundaries. The system decides the tools. It decides which actions are permitted. It decides when a human must approve.\n\nA smarter model gets no extra permissions. A new model does not change the rules.\n\nThe goal is not to slow AI down. The goal is bounded, accountable autonomy.\n\nCapability is not authority.\n\nmetaxis.io\n\n#AI #AIAgents #Metaxis",
+    "instagram": "Being intelligent doesn't mean having permission.\n\nAn AI agent can write code, modify databases, send emails. Capable is not the same as allowed.\n\nThe AI reasons and proposes. The system decides the tools, the permitted actions, and when a human must approve.\n\nThe goal is bounded, accountable autonomy.\n\nCapability is not authority.\n\nmetaxis.io\n\n#AI #AIAgents #Metaxis",
+    "facebook": "Being intelligent doesn't mean having permission.\n\nAn AI agent can write code, modify databases, send emails. Capable is not the same as allowed. In the Metaxis Harness, the AI reasons and proposes, and the system decides which actions are permitted and when a human must approve.\n\nThe goal is not to slow AI down. The goal is bounded, accountable autonomy.\n\nmetaxis.io"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

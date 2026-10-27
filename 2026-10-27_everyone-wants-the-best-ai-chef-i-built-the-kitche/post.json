@@ -1,0 +1,27 @@
+{
+  "pack": "2026-10-27_everyone-wants-the-best-ai-chef-i-built-the-kitche",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Everyone wants the best AI chef. I built the kitchen.",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-27_everyone-wants-the-best-ai-chef-i-built-the-kitche/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-rules.png",
+    "slides/06-statement.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "Everyone wants the best AI chef. I built the kitchen.\n\nAI models are getting very capable. They reason, write code and use tools. But intelligence alone is not a system. A chef knows a thousand recipes, yet in an empty room nothing gets cooked. No ingredients. No tools. No orders. No quality control.\n\nThat is the Metaxis Harness. It separates intelligence from authority. The model reasons and does the work. The Harness decides what it can access, which actions are allowed, when approval is needed and what evidence counts.\n\n\"Done\" is not done. The result still needs a check.\n\nA better model arrives tomorrow? Swap the chef. Keep the kitchen. The goal is real, controlled, verifiable work.\n\nmetaxis.io\n\n#AI #AIAgents #Metaxis",
+    "instagram": "Everyone wants the best AI chef. I built the kitchen.\n\nIntelligence alone is not a system. The Metaxis Harness separates intelligence from authority: the model does the work, the Harness decides what it can access, which actions are allowed and what evidence counts.\n\nA better model arrives tomorrow? Swap the chef. Keep the kitchen.\n\nmetaxis.io\n\n#AI #AIAgents #Metaxis",
+    "facebook": "Everyone wants the best AI chef. I built the kitchen.\n\nThe model reasons and does the work. The Metaxis Harness decides what it can access, which actions are allowed, when approval is needed and what evidence counts.\n\nThe goal is real, controlled, verifiable work.\n\nmetaxis.io"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

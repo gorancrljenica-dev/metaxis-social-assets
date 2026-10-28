@@ -1,0 +1,26 @@
+{
+  "pack": "2026-10-28_flipped-interaction-pattern",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Flipped Interaction Pattern",
+  "source_url": "https://metaxis.io/blog/flipped-interaction-pattern-ai-asks-questions",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-10-28_flipped-interaction-pattern/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-pair.png",
+    "slides/04-rules.png",
+    "slides/05-pair.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "Most prompts fail for one reason. The request is too vague.\n\nYou know roughly what you want. You haven't named the details that matter. The AI fills the gaps with assumptions, and the result misses.\n\nThe Flipped Interaction Pattern fixes this. The AI asks before it answers. It tests assumptions and builds context. Then it gives a precise, usable answer.\n\nThe prompt is simple: Ask me questions to achieve X. Keep asking until Y. Ask one question at a time. X is your goal. Y is when the AI knows enough.\n\nUse it when context matters more than speed, or when you want personal output, not a template. Skip it for quick facts.\n\nYou trade speed for precision. The output is better because it is built on your real situation.\n\nFull lesson: https://metaxis.io/blog/flipped-interaction-pattern-ai-asks-questions\n\n#AI #PromptEngineering #FlippedInteraction",
+    "instagram": "Make the AI ask you questions. Don't let it guess.\n\nThe Flipped Interaction Pattern: the AI asks before it answers. It tests assumptions and builds context, then gives a precise, usable answer.\n\nAsk me questions to achieve X. Keep asking until Y. Ask one question at a time.\n\nYou trade speed for precision.\n\nFull lesson: metaxis.io/blog\n\n#AI #PromptEngineering #FlippedInteraction",
+    "facebook": "Make the AI ask you questions. Don't let it guess.\n\nThe Flipped Interaction Pattern: the AI asks before it answers. It tests assumptions and builds context, then gives a precise, usable answer.\n\nUse it when context matters more than speed. Skip it for quick facts.\n\nFull lesson: https://metaxis.io/blog/flipped-interaction-pattern-ai-asks-questions"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

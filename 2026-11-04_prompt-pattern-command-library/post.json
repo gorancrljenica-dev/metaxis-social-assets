@@ -1,0 +1,26 @@
+{
+  "pack": "2026-11-04_prompt-pattern-command-library",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Prompt Pattern Command Library",
+  "source_url": "https://metaxis.io/blog/prompt-pattern-command-library",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-11-04_prompt-pattern-command-library/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-pair.png",
+    "slides/04-statement.png",
+    "slides/05-rules.png",
+    "slides/06-close.png"
+  ],
+  "captions": {
+    "linkedin": "You don't need a longer prompt; you need a shorter one that tells the model how to think.\n\nA prompt pattern command library is a set of short commands, each activating a specific reasoning mode, so you stop re-explaining tone, structure and context from scratch every time.\n\nThis matters because most prompt frustration comes from inconsistency. You write a careful prompt, get a decent answer, then the next session the model behaves completely differently because you phrased things slightly differently.\n\nCommands fix that. Instead of describing what you want in natural language and hoping the model interprets it correctly, you invoke a named pattern and get consistent output.\n\nYou don't need to memorize all ten. Start with two or three that match your most common tasks, use them consistently, and add more as the need comes up.\n\nRead more: https://metaxis.io/blog/prompt-pattern-command-library\n\n#AI #PromptEngineering #Prompting",
+    "instagram": "You don't need a longer prompt; you need a shorter one that tells the model how to think.\n\nA prompt pattern command library is a set of short commands, each activating a specific reasoning mode. You stop re-explaining tone, structure and context from scratch.\n\nStart with two or three that match your most common tasks. Add more as the need comes up.\n\nFull lesson: metaxis.io/blog/prompt-pattern-command-library\n\n#AI #PromptEngineering #Prompting",
+    "facebook": "You don't need a longer prompt; you need a shorter one that tells the model how to think.\n\nA prompt pattern command library is a set of short commands, each activating a specific reasoning mode, so you stop re-explaining tone, structure and context every time.\n\nStart with two or three that match your most common tasks and add more as the need comes up.\n\nRead more: https://metaxis.io/blog/prompt-pattern-command-library"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

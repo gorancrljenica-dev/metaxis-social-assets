@@ -1,0 +1,27 @@
+{
+  "pack": "2026-11-13_combining-prompt-patterns",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "Combining Prompt Patterns",
+  "source_url": "https://metaxis.io/blog/combining-prompt-patterns-thinking-modes",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-11-13_combining-prompt-patterns/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-rules.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-rules.png",
+    "slides/06-statement.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "One prompt. Three stages.\n\nYou can stack prompt patterns in a single prompt. The AI then works in layers. First it gathers information. Then it breaks down the problem. Then it writes the answer. Each pattern is one stage of thinking.\n\nFIP: the AI interviews you first. CVP: it splits the task into sub-questions. RT: it reads the problem from several angles.\n\nThe order matters. Patterns that run before the answer win. They beat patterns that run after it. Collect what is missing upfront. Don't catch mistakes afterward.\n\nThis is the move from prompting to control. You define how the AI thinks first. Then it produces.\n\nTry FIP + CVP on your next complex request.\n\nhttps://metaxis.io/blog/combining-prompt-patterns-thinking-modes\n\n#AI #PromptEngineering #Prompting",
+    "instagram": "One prompt. Three stages.\n\nYou can stack prompt patterns in a single prompt. The AI then works in layers. First it gathers information. Then it breaks down the problem. Then it writes the answer.\n\nThe order matters. Patterns that run before the answer win.\n\nTry FIP + CVP on your next complex request.\n\nmetaxis.io/blog/combining-prompt-patterns-thinking-modes\n\n#AI #PromptEngineering #Prompting",
+    "facebook": "One prompt. Three stages.\n\nYou can stack prompt patterns in a single prompt. First the AI gathers information. Then it breaks down the problem. Then it writes the answer.\n\nThis is the move from prompting to control. You define how the AI thinks first. Then it produces.\n\nTry FIP + CVP on your next complex request.\n\nhttps://metaxis.io/blog/combining-prompt-patterns-thinking-modes"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

@@ -1,0 +1,25 @@
+{
+  "pack": "2026-11-18_the-ai-is-not-the-product",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "The AI is not the product",
+  "source_url": null,
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-11-18_the-ai-is-not-the-product/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-close.png"
+  ],
+  "captions": {
+    "linkedin": "The AI is not the product. The system around it is.\n\nI made two AI video ads in one week. They sell camping gear in Sarajevo. There was no camera, no actor and no studio.\n\nI built a small AI pipeline for it. ChatGPT writes the strategy and the script. Claude Code does the technical work. It assembles shots, text, music and cuts. I make every decision in between.\n\nThe first video had a voice-over in Bosnian. The client said it sounded like a robot. We dropped the voice completely. The second video used only on-screen text, typed out word by word, with music. That one worked.\n\nThe tools change every month. The decisions stay with the human operator. Start with one product, one video, one real feedback loop. Then build the pipeline around what actually worked.\n\nmetaxis.io\n\n#AI #VideoAds #Workflow",
+    "instagram": "The AI is not the product. The system around it is.\n\nTwo AI video ads in one week. No camera, no actor, no studio.\n\nThe first video had a Bosnian voice-over. The client said it sounded like a robot. The second used only on-screen text and music. That one worked.\n\nThe tools change every month. The decisions stay with the human operator.\n\nmetaxis.io\n\n#AI #VideoAds #Workflow",
+    "facebook": "The AI is not the product. The system around it is.\n\nI made two AI video ads in one week, with no camera, no actor and no studio. The first had a voice-over that sounded like a robot, so we dropped it. The second used on-screen text and music, and it worked.\n\nStart with one product, one video, one real feedback loop.\n\nmetaxis.io"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}

@@ -1,0 +1,27 @@
+{
+  "pack": "2026-11-17_the-template-pattern",
+  "brand": "metaxis",
+  "language": "en",
+  "linija": "A",
+  "title": "The Template Pattern",
+  "source_url": "https://metaxis.io/blog/template-pattern-consistent-ai-output",
+  "base_url": "https://gorancrljenica-dev.github.io/metaxis-social-assets/2026-11-17_the-template-pattern/",
+  "pdf": "carousel.pdf",
+  "thumbnail": "slides/01-cover.png",
+  "slides": [
+    "slides/01-cover.png",
+    "slides/02-statement.png",
+    "slides/03-rules.png",
+    "slides/04-pair.png",
+    "slides/05-statement.png",
+    "slides/06-pair.png",
+    "slides/07-close.png"
+  ],
+  "captions": {
+    "linkedin": "Your AI output is inconsistent? The model is not the problem. Missing structure is.\n\nSharp one day, vague the next. The Template Pattern fixes this. You give the AI a fixed frame: a form to fill in, not a blank page.\n\nYou define the sections. You set their order. Each section has one job. The AI doesn't decide what goes where. You do. Hook, core idea, example, summary.\n\nThe result reads the same across topics. That gives your content a rhythm, and it reads easier as a series.\n\nA template is not a cage. Change the length, tone or depth. Keep the frame. Stable structure, variable content. That is what makes it reliable.\n\nFull lesson: https://metaxis.io/blog/template-pattern-consistent-ai-output\n\n#AI #PromptEngineering #TemplatePattern",
+    "instagram": "Your AI output is inconsistent? The model is not the problem. Missing structure is.\n\nThe Template Pattern: you give the AI a fixed frame. A form to fill in, not a blank page. Stable structure. Variable content.\n\nFull lesson on the blog: metaxis.io/blog/template-pattern-consistent-ai-output\n\n#AI #PromptEngineering #TemplatePattern",
+    "facebook": "Your AI output is inconsistent? The model is not the problem. Missing structure is.\n\nThe Template Pattern: you give the AI a fixed frame. A form to fill in, not a blank page. The form stays. The content changes.\n\nFull lesson: https://metaxis.io/blog/template-pattern-consistent-ai-output"
+  },
+  "video": "reel.mp4",
+  "video_cover": "reel-cover.png"
+}
